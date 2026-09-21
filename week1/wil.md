@@ -9,7 +9,7 @@
 * 글자 크기(font-size)
 * 글자 색(color)
 * 박스 만들기
-width(가로), hight(세로), margin(외부 요소와의 간격), padding(텍스트 등 내부요소와 경계 사이 간격), border(경계선), border-radius(경계 모서리를 원형으로 깎고, 그 반경) 등 인자
+width(가로), height(세로), margin(외부 요소와의 간격), padding(텍스트 등 내부요소와 경계 사이 간격), border(경계선), border-radius(경계 모서리를 원형으로 깎고, 그 반경) 등 인자
 
 ---------
 
